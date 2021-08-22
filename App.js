@@ -2,7 +2,7 @@ import * as React from "react";
 import { View, Text, Button } from "react-native";
 import { NavigationContainer } from "@react-navigation/native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
-//Test Git
+
 //Start Screen Declaration (Lets go)
 function StartScreen({ navigation }) {
   //Function to Hide NavBar
